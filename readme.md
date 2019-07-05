@@ -2,7 +2,7 @@
 
 Best practices to code on cuda introduced in ipm HPC workshop 2019. 
 
-files named basic in their name are basic codes which their performance is not good when running.
+files contain 'basic' in their name are basic codes which their performance is not good when running.
 
 
 ## Compile
